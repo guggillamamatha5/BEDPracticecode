@@ -1,0 +1,7 @@
+swagger url
+(we need to add springfox starter,springfox swagger,springfox swagger ui dependencies with same version
+add configuration class for swagger)
+http://localhost:8080/swagger-ui/index.html
+
+latest standard spring boot version 2.7.5
+
